@@ -1,0 +1,24 @@
+{
+  "name": "archery",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShajidHossain-cmd/Archery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShajidHossain-cmd/Archery/issues"
+  },
+  "homepage": "https://github.com/ShajidHossain-cmd/Archery#readme",
+  "description": "",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^3.22.3"
+  }
+}
